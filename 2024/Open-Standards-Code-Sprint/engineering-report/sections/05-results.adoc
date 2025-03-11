@@ -5,29 +5,18 @@ The code sprint included multiple software applications and experimented with se
 
 === Approved OGC Standards
 
-include::results/ogcsensorthingsapi.adoc[]
-
-include::results/ogcstaplus.adoc[]
-
-include::results/ogcapifeatures.adoc[]
-
-include::results/ogcapitiles.adoc[]
-
-include::results/ogcapiedr.adoc[]
-
-include::results/ogcapiprocesses.adoc[]
-
 include::results/coveragejson.adoc[]
 
+include::results/trainingdmlai.adoc[]
 
 === Candidate OGC Standards
 
+include::results/ogcsensorthingsapiwebsub.adoc[]
 
 include::results/ogcapirecords.adoc[]
 
-include::results/ogcapicoverages.adoc[]
 
-include::results/jsonfg.adoc[]
+include::results/ogcstylessymbology.adoc[]
 
 === Specifications from the Community
 
@@ -41,10 +30,8 @@ include::results/pygeoapi.adoc[]
 
 include::results/pygeometa.adoc[]
 
-include::results/owslib.adoc[]
-
-include::results/ldproxy.adoc[]
-
 include::results/cubeserv.adoc[]
 
 include::results/gnosis.adoc[]
+
+include::results/jsonlinter.adoc[]
